@@ -1,0 +1,15 @@
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/var/projects/fizzbuzz-collection/C#/bin/Debug/net6.0/C#
+/var/projects/fizzbuzz-collection/C#/bin/Debug/net6.0/C#.deps.json
+/var/projects/fizzbuzz-collection/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/var/projects/fizzbuzz-collection/C#/bin/Debug/net6.0/C#.dll
+/var/projects/fizzbuzz-collection/C#/bin/Debug/net6.0/C#.pdb
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.dll
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/refint/C#.dll
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.pdb
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/var/projects/fizzbuzz-collection/C#/obj/Debug/net6.0/ref/C#.dll
